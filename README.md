@@ -1,8 +1,8 @@
-# Jasonette Completions
+# Jasonette Snippets
 
-The Jasonette completions in this repo were ported to Sublime Text from [Jasonette snippets](https://github.com/felipemullen/jasonette-snippets) made for Visual Studio Code.
+The snippets in this repo were ported to Sublime Text from [Jasonette snippets](https://github.com/felipemullen/jasonette-snippets) made for Visual Studio Code.
 
-## List of Completions
+## List of Snippets
 
 | Prefix | Jasonette Snippet Content |
 | ------ | ------------ |
